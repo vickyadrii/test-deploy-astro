@@ -31,7 +31,6 @@ const Navbar: React.FC = () => {
               smooth={true}
               duration={450}
               offset={-100}
-              spy={true}
               className="text-primary opacity-30 hover:opacity-80 font-semibold cursor-pointer"
             >
               {navigate}
